@@ -22,9 +22,4 @@ _Another view._
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Topic-Explorer.git
-Install dependencies:
-bash
-Copy
-Edit
-composer install
-Set up environment variables and API keys.
+
